@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pallavi!<br><br>🎓 Final-year student with a strong interest in Data Analytics, Machine Learning, and Database Management.<br><br>💻 I’m currently working on:<br>• Data analysis projects using Python, SQL, PowerBI and Excel  <br><br>I’m looking to collaborate on:<br>  Data Analytics projects  <br>  Beginner-friendly ML and Python projects  <br><br>I’m currently learning:<br>  Advanced SQL & Data Visualization  <br>  Machine Learning algorithms  <br><br>Fun fact:<br>I enjoy turning raw data into meaningful insights 
+👋 Hi, I'm Pallavi!<br><br>Final-year student with a strong interest in Data Analytics, Machine Learning, and Database Management.<br><br>I’m currently working on:<br>• Data analysis projects using Python, SQL, PowerBI and Excel  <br><br>I’m looking to collaborate on:<br>  Data Analytics projects  <br>  Beginner-friendly ML and Python projects  <br><br>I’m currently learning:<br>  Advanced SQL & Data Visualization  <br>  Machine Learning algorithms  <br><br>Fun fact:<br>I enjoy turning raw data into meaningful insights 
 
 
 ## 🌐 Socials:
